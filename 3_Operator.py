@@ -168,6 +168,6 @@ s = none: False'''
 # # a = (50 > 4 and 5==5) or False
 # # print(a)            # Output: Tue
 
-print("Hello Worl")
+print("Hello World")
 
 
