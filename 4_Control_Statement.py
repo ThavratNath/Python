@@ -7,3 +7,4 @@ a = 2
 c = a *5
 print(c)
 
+print("Hello world")  # Output: Hello world
