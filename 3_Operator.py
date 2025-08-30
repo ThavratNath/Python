@@ -105,7 +105,7 @@ x not in y: Membership Operator'''
 
 # print ((6==4 and 2 >-2) and 4<5 )   # Output is False. 
 
-# 5 < 10 and print("It works.")  # or
+# 5< 10 and print("It works.") or
 # print(5<10 and "It works.")
 
 '''True C and False C
@@ -168,6 +168,6 @@ s = none: False'''
 # # a = (50 > 4 and 5==5) or False
 # # print(a)            # Output: Tue
 
-print("Hello World")
+
 
 
